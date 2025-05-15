@@ -6,7 +6,7 @@ import java.nio.file.StandardOpenOption;
 public class AlinhamentoPCMContinuo {
     public static void main(String[] args) {
         // Caminho do arquivo de entrada e saída
-        String caminhoEntrada = "teste.txt";
+        String caminhoEntrada = "entrada.txt";
         String caminhoSaida = "saida.txt";
         
         // Padrão da flag de alinhamento do sistema PCM30 (também chamado de PAQ)
